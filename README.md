@@ -1,2 +1,2 @@
-# P8---SurveryAppIOS---Test
+# P8---SurveryAppIOS
 IOS version of SurveyApp
